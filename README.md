@@ -57,7 +57,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
     **C** The fraud transactions seem to have amounts not more than 2500.
 
-    ![Data Chart 2](reports/Scatter Plot.png)
+    ![Data Chart 2](Reports/Scatter_Plot.png)
     
 
 ## 4.0 Model Evaluation
@@ -66,12 +66,12 @@ We have used Keras Autoencoder to create a deep learning model by training it wi
 
 #### Model Loss
 
-   ![Line Chart 1](Reports/LinePlot.png)
+   ![Line Chart 1](Reports/Line_Plot.png)
 
 
 #### Recall vs Precision
    
-   ![Line Chart 2](Reports/Line Plot 2.png)
+   ![Line Chart 2](Reports/Line_Plot 2.png)
    
    
 #### Precision for different threshold values
