@@ -71,17 +71,17 @@ We have used Keras Autoencoder to create a deep learning model by training it wi
 
 #### Recall vs Precision
    
-   ![Line Chart 2](Reports/Line_Plot 2.png)
+   ![Line Chart 2](Reports/Line_Plot_2.png)
    
    
 #### Precision for different threshold values
    
-   ![Line Chart 3](Reports/Line Plot 3.png)
+   ![Line Chart 3](Reports/Line_Plot_3.png)
    
    
 #### Recall for different threshold values
    
-   ![Line Chart 4](Reports/Line Plot 4.png)
+   ![Line Chart 4](Reports/Line_Plot_4.png)
 
 
 
@@ -93,11 +93,11 @@ Threshold value: 3.1
 
 #### Precision for different threshold values
 
-   ![Chart 1](Reports/Scatter Plot 2.png)
+   ![Chart 1](Reports/Scatter_Plot_2.png)
    
 #### Confusion Matrix
 
-   ![Chart 2](Reports/Heat Map.png)
+   ![Chart 2](Reports/Heat_Map.png)
 
 
 ## 6.0 Conclusions
