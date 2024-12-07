@@ -57,7 +57,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
     **C** The fraud transactions seem to have amounts not more than 2500.
 
-    ![Data Chart 2](reports/scatter_plot.png)
+    ![Data Chart 2](reports/Scatter Plot.png)
     
 
 ## 4.0 Model Evaluation
