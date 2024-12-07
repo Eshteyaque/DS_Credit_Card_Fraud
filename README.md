@@ -18,7 +18,7 @@ We have to build a classification model to predict whether a transaction is frau
 **Exploratory Data Analysis:** Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations. 
 
 **Data Preparation:** This might include standardization, and handling the missing values and outliers in the data. 
-Dealing with Imbalanced Data: This data set is highly imbalanced. The data should be balanced using the appropriate methods before moving onto model building.
+Dealing with Imbalanced Data: This data set is highly imbalanced. The data should be balanced using the appropriate methods before moving on to model building.
 
 **Feature Engineering:** Transform the existing features for better performance of the ML Models. 
 
@@ -28,7 +28,7 @@ Dealing with Imbalanced Data: This data set is highly imbalanced. The data shoul
 
 **Model Evaluation:** Evaluate the performance of the model on data that was not used during the training process. The goal is to estimate the model's ability to generalize to new, unseen data and to identify any issues with the model, such as overfitting. 
 
-**Model Deployment:** Model deployment is the process of making a trained machine-learning model available for use in a production environment. 
+**Model Deployment:** Model deployment is making a trained machine-learning model available for use in a production environment. 
 
 
 ## 3.0 Data Insights
@@ -43,7 +43,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
 * #### Transaction Distribution by class.
 
-    **A** The percentage of fradulent transactions (0.172%) very less, thus we have a highly imbalanced dataset.
+    **A** The percentage of fraudulent transactions (0.172%) is very low; thus, we have a highly imbalanced dataset.
 
     Reports/Bar Chart.png
 
@@ -66,22 +66,22 @@ We have used Keras Autoencoder to create a deep learning model by training it wi
 
 #### Model Loss
 
-   ![Line Chart 1](reports/line_plot.png)
+   ![Line Chart 1](Reports/Line Plot.png)
 
 
 #### Recall vs Precision
    
-   ![Line Chart 2](reports/line_plot_2.png)
+   ![Line Chart 2](Reports/Line Plot 2.png)
    
    
 #### Precision for different threshold values
    
-   ![Line Chart 3](reports/line_plot_3.png)
+   ![Line Chart 3](Reports/Line Plot 3.png)
    
    
 #### Recall for different threshold values
    
-   ![Line Chart 4](reports/line_plot_4.png)
+   ![Line Chart 4](Reports/Line Plot 4.png)
 
 
 
@@ -93,11 +93,11 @@ Threshold value: 3.1
 
 #### Precision for different threshold values
 
-   ![Chart 1](reports/scatter_plot_2.png)
+   ![Chart 1](Reports/Scatter Plot 2.png)
    
 #### Confusion Matrix
 
-   ![Chart 2](reports/heat_map.png)
+   ![Chart 2](Reports/Heat Map.png)
 
 
 ## 6.0 Conclusions
