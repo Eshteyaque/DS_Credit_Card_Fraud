@@ -66,7 +66,7 @@ We have used Keras Autoencoder to create a deep learning model by training it wi
 
 #### Model Loss
 
-   ![Line Chart 1](Reports/Line Plot.png)
+   ![Line Chart 1](Reports/LinePlot.png)
 
 
 #### Recall vs Precision
