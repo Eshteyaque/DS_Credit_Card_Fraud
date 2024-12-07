@@ -51,7 +51,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
     **B** Amount of transactions between legit & fraud differs by a huge margin.
 
-    ![Data Chart 1](reports/histogram.png)
+    ![Data Chart 1](Reports/Histogram.png)
     
 * #### Time of transaction vs amount by class
 
